@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "dev": "cd system-x && npm run dev",
+    "build": "cd system-x && npm run build",
+    "preview": "cd system-x && npm run preview"
+  },
+  "dependencies": {
+    "lucide-react": "^0.562.0"
+  }
+}
